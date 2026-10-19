@@ -1,14 +1,13 @@
-ICML — Smart Road Accident Detection and Emergency Response System
+# ICML — Smart Road Accident Detection and Emergency Response System
 
-Project Overview
+## Project Overview
 ![ICML Project Prototype](icml%20prototype%20image.jpeg)
 This project aims to detect road accidents and support emergency response by using sensors and an embedded system.
 
 ## Demo Video
-
 [Watch the ICML project demonstration](<icml demo video.mp4>)
 
-Project Files
+## Project Files
 
 - "ICML_Done.ino" — Arduino source code
 - "icml demo video.mp4" — project demonstration
@@ -17,7 +16,7 @@ Project Files
 - "icml prototype image.jpeg" — prototype photograph
 - "icml report 1.docx" — project report
 
-Hardware and Components:
+## Hardware and Components:
 
 Esp32 
 
@@ -35,7 +34,7 @@ LCD Display
 
 LED module
 
-Working Principle:
+## Working Principle:
 
 This project uses sensors such as an accelerometer and gyroscope to continuously monitor vehicle movements and detect sudden impacts or abnormal motion.
 
@@ -45,6 +44,6 @@ When an accident is detected, the system displays the status on an LCD, provides
 
 An IoT-based dashboard can also display the sensor readings and accident status for remote monitoring, helping to reduce emergency response time.
 
-Author:
+## Author:
 
 Siddharth S
