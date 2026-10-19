@@ -16,12 +16,19 @@ Project Files
 Hardware and Components:
 
 Esp32 
+
 Buzzer
+
 Breadboard 
+
 jumpers 
+
 MPU6050 sensor
+
 pushbutton 
+
 LCD Display 
+
 LED module
 
 Working Principle:
