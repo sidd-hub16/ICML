@@ -1,7 +1,7 @@
 ICML — Smart Road Accident Detection and Emergency Response System
 
 Project Overview
-
+![ICML Project Prototype](icml%20prototype%20image.jpeg)
 This project aims to detect road accidents and support emergency response by using sensors and an embedded system.
 
 Project Files
