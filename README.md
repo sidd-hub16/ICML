@@ -4,6 +4,10 @@ Project Overview
 ![ICML Project Prototype](icml%20prototype%20image.jpeg)
 This project aims to detect road accidents and support emergency response by using sensors and an embedded system.
 
+## Demo Video
+
+[Watch the ICML project demonstration](<icml demo video.mp4>)
+
 Project Files
 
 - "ICML_Done.ino" — Arduino source code
